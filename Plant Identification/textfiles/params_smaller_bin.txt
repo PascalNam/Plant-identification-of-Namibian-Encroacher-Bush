@@ -1,0 +1,27 @@
+Model with rank1
+ Mean validation score0.963(std:0.016
+) Parameters: {'n_estimators': 50, 'min_samples_split': 50, 'min_samples_leaf': 40, 'max_depth': 275, 'criterion': 'gini', 'bootstrap': False}
+Model with rank2
+ Mean validation score0.963(std:0.016
+) Parameters: {'n_estimators': 140, 'min_samples_split': 80, 'min_samples_leaf': 23, 'max_depth': 40, 'criterion': 'entropy', 'bootstrap': True}
+Model with rank3
+ Mean validation score0.961(std:0.014
+) Parameters: {'n_estimators': 225, 'min_samples_split': 150, 'min_samples_leaf': 4, 'max_depth': 50, 'criterion': 'gini', 'bootstrap': True}
+Model with rank1
+ Mean validation score0.992(std:0.006
+) Parameters: {'n_estimators': 60, 'min_samples_split': 50, 'min_samples_leaf': 8, 'max_depth': 200, 'criterion': 'entropy', 'bootstrap': False}
+Model with rank2
+ Mean validation score0.984(std:0.010
+) Parameters: {'n_estimators': 180, 'min_samples_split': 17, 'min_samples_leaf': 60, 'max_depth': 275, 'criterion': 'entropy', 'bootstrap': False}
+Model with rank3
+ Mean validation score0.980(std:0.012
+) Parameters: {'n_estimators': 330, 'min_samples_split': 275, 'min_samples_leaf': 20, 'max_depth': 120, 'criterion': 'entropy', 'bootstrap': False}
+Model with rank1
+ Mean validation score0.999(std:0.002
+) Parameters: {'n_estimators': 130, 'min_samples_split': 23, 'min_samples_leaf': 3, 'max_depth': 70, 'criterion': 'gini', 'bootstrap': False}
+Model with rank2
+ Mean validation score0.998(std:0.002
+) Parameters: {'n_estimators': 180, 'min_samples_split': 40, 'min_samples_leaf': 11, 'max_depth': 130, 'criterion': 'gini', 'bootstrap': False}
+Model with rank3
+ Mean validation score0.995(std:0.003
+) Parameters: {'n_estimators': 19, 'min_samples_split': 14, 'min_samples_leaf': 15, 'max_depth': 14, 'criterion': 'gini', 'bootstrap': True}
